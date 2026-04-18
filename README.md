@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Project
+# 📊 Sales Analysis 
 
 ## Overview
 This project analyzes sales data using Python, Pandas, and Matplotlib.  
